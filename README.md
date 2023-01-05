@@ -85,6 +85,44 @@ Cuenta con un panel de administrador el cual lleva nota de las ventas semanales 
 
 </div>
 
+</br>
+
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672706046/FCHome_ncdfpd.png" align="left" />  
 
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672706266/FCDashboard_hgdwtj.png" align="right" style="margin-top: 1rem"/> 
+
+</br>
+</br>
+
+**Proyecto Individual: Pokemon App**  
+  
+Proyecto que toma a prueba todos los conocimientos obtenidos en el bootcamp de programacion Henry. Usando tecnologias como NodeJS, expressJS, Sequelize, Postgres, React y Redux.
+
+Desde el backend se realizan peticiones a travez de una api extensa de Pokemon, realizando busquedas individuales o enteras. 
+
+Desde el front se toma foco principal en el manejo del estado con los filtros y ordenamientos a travez de React y Redux, asi como tambien estilos usando CSS puro.
+
+Cuenta tambien con un formulario para crear tu propio pokemon (O mas bien capturarlo) validado con Javascript.
+  
+<div style="display: flex;">
+<a>
+
+### [Deploy](https://creative-narwhal-e5947a.netlify.app/)
+
+</a>
+
+<a style="margin-left: .5rem">
+
+### [Repositorio](https://github.com/NicolasVeron/PI-Pokemon)
+
+</a>
+
+</div>
+
+</br>
+
+<img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672933852/PKMN_Home_prgz4u.png" align="left" />  
+Home
+
+<img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672933932/PKMN_Form_d40ufn.png" align="right" style="margin-top: 1rem"/> 
+Formulario
