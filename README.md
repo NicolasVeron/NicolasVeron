@@ -69,29 +69,15 @@ Cada usuario tendra la posibilidad de editar su perfil, realizar pedidos y recup
 
 Cuenta con un panel de administrador el cual lleva nota de las ventas semanales y del mes, los ultimos usuarios y ordenes y poder administrar estos.  
 
-  
-<div style="display: flex;">
-<a>
-
-### [Deploy](https://proyecto-final-ropa-moda.vercel.app/products)
-
-</a>
-
-<a style="margin-left: .5rem">
-
-### [Repositorio](https://github.com/laura16ortega/Proyecto-Final-Ropa-Moda/)
-
-</a>
-
-</div>
-
 </br>
 
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672706046/FCHome_ncdfpd.png" align="left" />  
 
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672706266/FCDashboard_hgdwtj.png" align="right" style="margin-top: 1rem"/> 
 
-</br>
+### [Deploy](https://proyecto-final-ropa-moda.vercel.app/products) | [Repositorio](https://github.com/laura16ortega/Proyecto-Final-Ropa-Moda)
+
+
 </br>
 
 **Proyecto Individual: Pokemon App**  
@@ -103,26 +89,11 @@ Desde el backend se realizan peticiones a travez de una api extensa de Pokemon, 
 Desde el front se toma foco principal en el manejo del estado con los filtros y ordenamientos a travez de React y Redux, asi como tambien estilos usando CSS puro.
 
 Cuenta tambien con un formulario para crear tu propio pokemon (O mas bien capturarlo) validado con Javascript.
-  
-<div style="display: flex;">
-<a>
-
-### [Deploy](https://creative-narwhal-e5947a.netlify.app/)
-
-</a>
-
-<a style="margin-left: .5rem">
-
-### [Repositorio](https://github.com/NicolasVeron/PI-Pokemon)
-
-</a>
-
-</div>
 
 </br>
 
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672933852/PKMN_Home_prgz4u.png" align="left" />  
-Home
 
 <img src="https://res.cloudinary.com/dayt0wtlk/image/upload/v1672933932/PKMN_Form_d40ufn.png" align="right" style="margin-top: 1rem"/> 
-Formulario
+
+### [Deploy](https://creative-narwhal-e5947a.netlify.app/) | [Repositorio](https://github.com/NicolasVeron/PI-Pokemon)
